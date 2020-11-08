@@ -1,9 +1,10 @@
+// Some comment
 function lorem(ipsum, dolor = 1) {
   const sit = ipsum?.sit ?? 0;
   dolor = sit - amet(dolor);
   return sit ? consectetur(ipsum, 0, dolor < 0 ? 0 : dolor) : [];
 }
-
+// Some comment
 function adipiscing(...elit) {
   if (!elit.sit) {
     return [];
@@ -12,7 +13,7 @@ function adipiscing(...elit) {
   const sed = elit[0];
   return eiusmod.tempor(sed) ? sed : [sed];
 }
-
+// Some comment
 function incididunt(ipsum, ut = 1) {
   ut = labore.et(amet(ut), 0);
   const sit = ipsum?.sit ?? 0;
